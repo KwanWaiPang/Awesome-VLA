@@ -90,37 +90,8 @@ Feel free to share this list with others!
 | 2024 | `CoRL` | [HIRT: Enhancing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/abs/2410.05273) | --- | --- |
 | 2024 | `arXiv` | [Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](https://arxiv.org/abs/2410.08001) | --- | [Website](https://robodual.github.io/) |
 | 2024 | `CoRL` | [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | [![Github stars](https://img.shields.io/github/stars/MichalZawalski/embodied-CoT.svg)](https://github.com/MichalZawalski/embodied-CoT) | [Website](https://embodied-cot.github.io/) |
-| 2025 | `arXiv` | [Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111) | [![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla) | [Website](https://kwanwaipang.github.io/Efficient-VLA/) |
 
 
-
-
-
-| 2025 | RAL | [Tinyvla: towards fast, data-efficient vision-language-action models for robotic manipulation](https://arxiv.org/abs/2409.12514) | [🌐](https://tiny-vla.github.io/) | [💻](https://github.com/liyaxuanliyaxuan/TinyVLA) |
-| 2025 | arXiv | [Smolvla: a vision-language-action model for affordable and efficient robotics](https://arxiv.org/abs/2506.01844) | - | [💻](https://github.com/huggingface/lerobot) |
-| 2025 | arXiv | [NORA: A Small Open-Sourced Generalist Vision-Language-Action Model for Embodied Tasks](https://arxiv.org/abs/2504.19854) | [🌐](https://declare-lab.github.io/nora) | [💻](https://github.com/declare-lab/nora) |
-| 2025 | arXiv | [MoLe-VLA: Dynamic Layer-Skipping Vision-Language-Action Model via Mixture-of-Layers for Efficient Robot Manipulation](https://arxiv.org/abs/2503.20384) | [🌐](https://sites.google.com/view/mole-vla) | [💻](https://github.com/RoyZry98/MoLe-VLA-Pytorch) |
-| 2025 | arXiv | [EfficientVLA: Training‑Free Acceleration and Compression for Vision‑Language‑Action Models](https://arxiv.org/abs/2506.10100) | - | - |
-| 2025 | arXiv | [Think Twice, Act Once: Token‑Aware Compression and Action Reuse for Efficient Inference in Vision‑Language‑Action Models](https://arxiv.org/abs/2505.21200) | - | - |
-| 2025 | arXiv | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | [🌐](https://jasper0314-huang.github.io/thinkact-vla/) | - |
-| 2025 | arXiv | [Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation](https://arxiv.org/abs/2505.03912) | [🌐](https://openhelix-robot.github.io/) | [💻](https://github.com/OpenHelix-robot/OpenHelix) 
-| 2025 | arXiv | [SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model](https://arxiv.org/abs/2501.15830) | [🌐](https://spatialvla.github.io/) | [💻](https://github.com/SpatialVLA/SpatialVLA) |
-| 2025 | arXiv | [Fast-in-slow: a dual-system foundation model unifying fast manipulation within slow reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
-| 2025 | arXiv | [SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration](https://arxiv.org/abs/2506.12723) | - | - |
-| 2025 | arXiv | [VLA‑Cache: Towards Efficient Vision‑Language‑Action Model via Adaptive Token Caching in Robotic Manipulation](https://arxiv.org/abs/2502.02175) | - | [💻](https://github.com/siyuhsu/vla-cache) |
-| 2025 | arXiv | [SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](https://arxiv.org/abs/2509.05614) | - | - |
-| 2025 | RSS | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.roboticsproceedings.org/rss21/p012.pdf) | [🌐](https://www.pi.website/research/fast) | - |
-| 2025 | arXiv | [Real-Time Execution of Action Chunking Flow Policies](https://arxiv.org/abs/2506.07339) | [🌐](https://www.pi.website/research/real_time_chunking) | - |
-| 2025 | arXiv | [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116) | [🌐](-) | [💻](-) |
-| 2025 | arXiv | [MoLe-VLA: Dynamic Layer-Skipping Vision-Language-Action Model via Mixture-of-Layers for Efficient Robot Manipulation](https://arxiv.org/abs/2503.20384) | [🌐](https://sites.google.com/view/mole-vla) | [💻](https://github.com/RoyZry98/MoLe-VLA-Pytorch) |
-| 2025 | arXiv | [BitVLA: 1-Bit Vision-Language-Action Models for Robotics Manipulation](https://arxiv.org/abs/2506.07530) | [🌐](-) | [💻](https://github.com/ustcwhy/BitVLA?tab=readme-ov-file) |
-| 2025 | arXiv | [SpecVLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance](https://arxiv.org/abs/2507.22424) | [🌐](-) | [💻](-) |
-| 2024 | NeurIPS | [RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/abs/2406.04339) | [🌐](https://sites.google.com/view/robomamba-web) | [💻](https://github.com/lmzpai/roboMamba?tab=readme-ov-file) |
-| 2024 | NeurIPS | [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](https://arxiv.org/abs/2411.02359) | [🌐](-) | [💻](https://github.com/yueyang130/DeeR-VLA) |
-| 2024 | IROS | [From llms to actions: latent codes as bridges in hierarchical robot control](https://arxiv.org/abs/2405.04798) | - | - |
-| 2024 | CoRL | [Hirt: enhancing robotic control with hierarchical robot transformers](https://arxiv.org/abs/2410.05273) | - | - |
-| 2024 | arXiv | [Towards synergistic, generalized, and efficient dual-system for robotic manipulation](https://arxiv.org/abs/2410.08001) | [🌐](https://robodual.github.io/) | - |
-| 2024 | CoRL | [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | [🌐](https://embodied-cot.github.io/) | [💻](https://github.com/MichalZawalski/embodied-CoT/) |
 
 
 
