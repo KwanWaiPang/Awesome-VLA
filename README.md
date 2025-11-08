@@ -25,7 +25,6 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Smolvla: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)|---|---|
 |2025|`CoRL`|[π0.5: a Vision-Language-Action Model with Open-World Generalization](https://openreview.net/pdf?id=vlhoswksBO)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Blog](https://www.pi.website/blog/pi05)<br>PI0.5|
 |2025|`arXiv`|[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/pdf/2509.19012)|---|---|
 |2025|`arXiv`|[InternVLA-M1: Latent Spatial Grounding for Instruction-Following Robotic Manipulation](https://arxiv.org/pdf/2510.13778)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/InternVLA-M1.svg)](https://github.com/InternRobotics/InternVLA-M1)|[Website](https://internrobotics.github.io/internvla-m1.github.io/)|
@@ -56,7 +55,7 @@ Feel free to share this list with others!
 |2025|`arXiv`|[Sqap-vla: A synergistic quantization-aware pruning framework for high-performance vision-language-action models](https://arxiv.org/pdf/2509.09090?)|[![Github stars](https://img.shields.io/github/stars/ecdine/SQAP-VLA.svg)](https://github.com/ecdine/SQAP-VLA)|---|
 |2025|`arXiv`|[Fastdrivevla: Efficient end-to-end driving via plug-and-play reconstruction-based token pruning](https://arxiv.org/pdf/2507.23318)|---|---|
 | 2025 | `RAL` | [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514) | [![Github stars](https://img.shields.io/github/stars/liyaxuanliyaxuan/TinyVLA.svg)](https://github.com/liyaxuanliyaxuan/TinyVLA) | [Website](https://tiny-vla.github.io/) |
-| 2025 | `arXiv` | [SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics](https://arxiv.org/abs/2506.01844) | [![Github stars](https://img.shields.io/github/stars/huggingface/lerobot.svg)](https://github.com/huggingface/lerobot) | --- |
+|2025|`arXiv`|[Smolvla: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)|---|[website](https://huggingface.co/blog/smolvla)|
 | 2025 | `arXiv` | [NORA: A Small Open-Sourced Generalist Vision-Language-Action Model for Embodied Tasks](https://arxiv.org/abs/2504.19854) | [![Github stars](https://img.shields.io/github/stars/declare-lab/nora.svg)](https://github.com/declare-lab/nora) | [Website](https://declare-lab.github.io/nora) |
 | 2025 | `arXiv` | [MoLe-VLA: Dynamic Layer-Skipping Vision-Language-Action Model via Mixture-of-Layers for Efficient Robot Manipulation](https://arxiv.org/abs/2503.20384) | [![Github stars](https://img.shields.io/github/stars/RoyZry98/MoLe-VLA-Pytorch.svg)](https://github.com/RoyZry98/MoLe-VLA-Pytorch) | [Website](https://sites.google.com/view/mole-vla) |
 | 2025 | `arXiv` | [EfficientVLA: Training‑Free Acceleration and Compression for Vision‑Language‑Action Models](https://arxiv.org/abs/2506.10100) | --- | --- |
