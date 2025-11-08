@@ -51,6 +51,8 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
+|---|`arXiv`|---|---|---|
+|2025|`ICML`|[Otter: A vision-language-action model with text-aware visual feature extraction](https://arxiv.org/pdf/2503.03734)|[![Github stars](https://img.shields.io/github/stars/Max-Fu/otter.svg)](https://github.com/Max-Fu/otter)|[Website](https://ottervla.github.io/)|
 |2025|`arXiv`|[Sqap-vla: A synergistic quantization-aware pruning framework for high-performance vision-language-action models](https://arxiv.org/pdf/2509.09090?)|[![Github stars](https://img.shields.io/github/stars/ecdine/SQAP-VLA.svg)](https://github.com/ecdine/SQAP-VLA)|---|
 |2025|`arXiv`|[Fastdrivevla: Efficient end-to-end driving via plug-and-play reconstruction-based token pruning](https://arxiv.org/pdf/2507.23318)|---|---|
 | 2025 | `RAL` | [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514) | [![Github stars](https://img.shields.io/github/stars/liyaxuanliyaxuan/TinyVLA.svg)](https://github.com/liyaxuanliyaxuan/TinyVLA) | [Website](https://tiny-vla.github.io/) |
