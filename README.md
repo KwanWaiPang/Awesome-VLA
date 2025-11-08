@@ -64,5 +64,5 @@ Feel free to share this list with others!
 
 
 # Other Resources
-
+* Paper List for [VLN (Visual Language Navigation)](https://github.com/KwanWaiPang/Awesome-VLN)
 
