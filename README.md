@@ -17,7 +17,7 @@ Feel free to share this list with others!
 # Overview
 - [Efficient-VLA](#Efficient-VLA)
 - [Survey Paper](#Survey-Paper)
-- [Other Resources](#Others-Resources)
+- [Other Resources](#Other-Resources)
 
 <br>
 
