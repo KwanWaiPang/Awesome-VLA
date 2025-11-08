@@ -50,8 +50,7 @@ Feel free to share this list with others!
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
 |---|`arXiv`|---|---|---|
-|2025|`arXiv`|[KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache
-](https://arxiv.org/pdf/2509.21354)|[![Github stars](https://img.shields.io/github/stars/l-zhuang/KV-Efficient-VLA.svg)](https://github.com/l-zhuang/KV-Efficient-VLA)|---|
+|2025|`arXiv`|[KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache](https://arxiv.org/pdf/2509.21354)|[![Github stars](https://img.shields.io/github/stars/l-zhuang/KV-Efficient-VLA.svg)](https://github.com/l-zhuang/KV-Efficient-VLA)|---|
 |2025|`arXiv`|[Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse](https://arxiv.org/pdf/2506.07639)|---|---|
 |2025|`arXiv`|[Ttf-vla: Temporal token fusion via pixel-attention integration for vision-language-action models](https://arxiv.org/pdf/2508.19257)|---|---|
 |2025|`arXiv`|[Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)|[![Github stars](https://img.shields.io/github/stars/baaivision/UniVLA.svg)](https://github.com/baaivision/UniVLA) |[website](https://robertwyq.github.io/univla.github.io/)|
