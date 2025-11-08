@@ -49,7 +49,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
-|---|`arXiv`|---|---|---|
+|2025|`arXiv`|[Action-aware dynamic pruning for efficient vision-language-action manipulation](https://arxiv.org/pdf/2509.22093?)|---|---|
 |2025|`arXiv`|[Edgevla: Efficient vision-language-action models](https://arxiv.org/pdf/2507.14049)|---|---|
 |2025|`arXiv`|[Hume: Introducing System-2 Thinking in Visual-Language-Action Model](https://arxiv.org/pdf/2505.21432)|[![Github stars](https://img.shields.io/github/stars/hume-vla/hume.svg)](https://github.com/hume-vla/hume)|[website](https://hume-vla.github.io/)|
 |2025|`CoRL`|[Flower: Democratizing generalist robot policies with efficient vision-language-action flow policies](https://arxiv.org/pdf/2509.04996)|[![Github stars](https://img.shields.io/github/stars/intuitive-robots/flower_vla_pret.svg)](https://github.com/intuitive-robots/flower_vla_pret) <br> [![Github stars](https://img.shields.io/github/stars/intuitive-robots/flower_vla_calvin.svg)](https://github.com/intuitive-robots/flower_vla_calvin)|[website](https://intuitive-robots.github.io/flower_vla/)|
