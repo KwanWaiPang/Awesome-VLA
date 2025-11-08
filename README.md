@@ -101,6 +101,6 @@ Feel free to share this list with others!
 # Other Resources
 * Paper List for [VLN (Visual Language Navigation)](https://github.com/KwanWaiPang/Awesome-VLN)
 * [Awesome-Efficient-VLA](https://github.com/guanweifan/awesome-efficient-vla)
-* [LeRobot: Making AI for Robotics more accessible with end-to-end learning](https://github.com/huggingface/lerobot)
+* [LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch/LeRobot: Making AI for Robotics more accessible with end-to-end learning](https://github.com/huggingface/lerobot)
 
 
