@@ -57,6 +57,7 @@ Feel free to share this list with others!
 
 
 
+
 # Efficient-VLA
 
 <!-- |---|`arXiv`|---|---|---| -->
@@ -65,6 +66,19 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
+| 2025 | RA-L | [Tinyvla: towards fast, data-efficient vision-language-action models for robotic manipulation](https://arxiv.org/abs/2409.12514) | [🌐](https://tiny-vla.github.io/) | [💻](https://github.com/liyaxuanliyaxuan/TinyVLA) |
+| 2025 | arXiv | [Smolvla: a vision-language-action model for affordable and efficient robotics](https://arxiv.org/abs/2506.01844) | - | [💻](https://github.com/huggingface/lerobot) |
+| 2025 | arXiv | [NORA: A Small Open-Sourced Generalist Vision-Language-Action Model for Embodied Tasks](https://arxiv.org/abs/2504.19854) | [🌐](https://declare-lab.github.io/nora) | [💻](https://github.com/declare-lab/nora) |
+| 2025 | arXiv | [MoLe-VLA: Dynamic Layer-Skipping Vision-Language-Action Model via Mixture-of-Layers for Efficient Robot Manipulation](https://arxiv.org/abs/2503.20384) | [🌐](https://sites.google.com/view/mole-vla) | [💻](https://github.com/RoyZry98/MoLe-VLA-Pytorch) |
+| 2025 | arXiv | [EfficientVLA: Training‑Free Acceleration and Compression for Vision‑Language‑Action Models](https://arxiv.org/abs/2506.10100) | - | - |
+| 2025 | arXiv | [Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation](https://arxiv.org/abs/2505.03912) | [🌐](https://openhelix-robot.github.io/) | [💻](https://github.com/OpenHelix-robot/OpenHelix) 
+| 2025 | arXiv | [Fast-in-slow: a dual-system foundation model unifying fast manipulation within slow reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
+| 2024 | NeurIPS | [RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/abs/2406.04339) | [🌐](https://sites.google.com/view/robomamba-web) | [💻](https://github.com/lmzpai/roboMamba?tab=readme-ov-file) |
+| 2024 | NeurIPS | [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](https://arxiv.org/abs/2411.02359) | [🌐](-) | [💻](https://github.com/yueyang130/DeeR-VLA) |
+| 2024 | IROS | [From llms to actions: latent codes as bridges in hierarchical robot control](https://arxiv.org/abs/2405.04798) | - | - |
+| 2024 | CoRL | [Hirt: enhancing robotic control with hierarchical robot transformers](https://arxiv.org/abs/2410.05273) | - | - |
+| 2024 | arXiv | [Towards synergistic, generalized, and efficient dual-system for robotic manipulation](https://arxiv.org/abs/2410.08001) | [🌐](https://robodual.github.io/) | - |
+
 
 
 
