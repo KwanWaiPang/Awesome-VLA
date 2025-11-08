@@ -50,6 +50,7 @@ Feel free to share this list with others!
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
 |---|`arXiv`|---|---|---|
+|2025|`arXiv`|[Fine-tuning vision-language-action models: Optimizing speed and success](https://arxiv.org/pdf/2502.19645)|[![Github stars](https://img.shields.io/github/stars/moojink/openvla-oft.svg)](https://github.com/moojink/openvla-oft)|[website](https://openvla-oft.github.io/)|
 |2025|`arXiv`|[Nina: Normalizing flows in action. training vla models with normalizing flows](https://arxiv.org/pdf/2508.16845)|[![Github stars](https://img.shields.io/github/stars/dunnolab/NinA.svg)](https://github.com/dunnolab/NinA/)|---|
 |2025|`ICCV`|[Saliency-aware quantized imitation learning for efficient robotic control](https://openaccess.thecvf.com/content/ICCV2025/papers/Park_Saliency-Aware_Quantized_Imitation_Learning_for_Efficient_Robotic_Control_ICCV_2025_paper.pdf)|---|---|
 |2025|`arXiv`|[Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered](https://arxiv.org/pdf/2510.08464)|---|[website](https://gluestick-vla.github.io/)|
