@@ -15,8 +15,8 @@ If you find this repository useful, a simple star should be the best affirmation
 Feel free to share this list with others!
 
 # Overview
-- [Survey Paper](#Survey-Paper)
 - [Efficient-VLA](#Efficient-VLA)
+- [Survey Paper](#Survey-Paper)
 - [Other Resources](#Others-Resources)
 
 <br>
@@ -41,21 +41,6 @@ Feel free to share this list with others!
 |2022|`arXiv`|[Rt-1: Robotics transformer for real-world control at scale](https://arxiv.org/pdf/2212.06817)|[![Github stars](https://img.shields.io/github/stars/google-research/robotics_transformer.svg)](https://github.com/google-research/robotics_transformer)|[website](https://robotics-transformer1.github.io/)<br>[Blog](https://research.google/blog/rt-1-robotics-transformer-for-real-world-control-at-scale/)|
 
 
-# Survey Paper
-
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|[Blog](https://kwanwaipang.github.io/Efficient-VLA/)|
-|2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
-|2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|[Blog](https://kwanwaipang.github.io/VLA-survey-2025/)|
-|2025|`arXiv`|[Vision language action models in robotic manipulation: A systematic review](https://arxiv.org/pdf/2507.10672)|---|---|
-|2025|`arXiv`|[Large vlm-based vision-language-action models for robotic manipulation: A survey](https://arxiv.org/pdf/2508.13073?)|[![Github stars](https://img.shields.io/github/stars/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation.svg)](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)|---|
-|2025|`Information Fusion`|[Exploring embodied multimodal large models: Development, datasets, and future directions](https://arxiv.org/pdf/2502.15336?)|---|---|
-|2025|`arXiv`|[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/pdf/2509.19012)|---|---|
-
-
 
 
 # Efficient-VLA
@@ -66,6 +51,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
+|2025|`arXiv`|[Sqap-vla: A synergistic quantization-aware pruning framework for high-performance vision-language-action models](https://arxiv.org/pdf/2509.09090?)|[![Github stars](https://img.shields.io/github/stars/ecdine/SQAP-VLA.svg)](https://github.com/ecdine/SQAP-VLA)|---|
 |2025|`arXiv`|[Fastdrivevla: Efficient end-to-end driving via plug-and-play reconstruction-based token pruning](https://arxiv.org/pdf/2507.23318)|---|---|
 | 2025 | `RAL` | [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514) | [![Github stars](https://img.shields.io/github/stars/liyaxuanliyaxuan/TinyVLA.svg)](https://github.com/liyaxuanliyaxuan/TinyVLA) | [Website](https://tiny-vla.github.io/) |
 | 2025 | `arXiv` | [SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics](https://arxiv.org/abs/2506.01844) | [![Github stars](https://img.shields.io/github/stars/huggingface/lerobot.svg)](https://github.com/huggingface/lerobot) | --- |
@@ -95,6 +81,19 @@ Feel free to share this list with others!
 
 
 
+# Survey Paper
+
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|[Blog](https://kwanwaipang.github.io/Efficient-VLA/)|
+|2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
+|2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|[Blog](https://kwanwaipang.github.io/VLA-survey-2025/)|
+|2025|`arXiv`|[Vision language action models in robotic manipulation: A systematic review](https://arxiv.org/pdf/2507.10672)|---|---|
+|2025|`arXiv`|[Large vlm-based vision-language-action models for robotic manipulation: A survey](https://arxiv.org/pdf/2508.13073?)|[![Github stars](https://img.shields.io/github/stars/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation.svg)](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)|---|
+|2025|`Information Fusion`|[Exploring embodied multimodal large models: Development, datasets, and future directions](https://arxiv.org/pdf/2502.15336?)|---|---|
+|2025|`arXiv`|[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/pdf/2509.19012)|---|---|
 
 
 
