@@ -50,7 +50,7 @@ Feel free to share this list with others!
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
 |---|`arXiv`|---|---|---|
-|2025|`arXiv`|[VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation](https://arxiv.org/pdf/2510.09607)|[![Github stars](https://img.shields.io/github/stars/Tencent/VITA/tree/VITA-VLA.svg)](https://github.com/Tencent/VITA/tree/VITA-VLA)|[website](https://ltbai.github.io/VITA-VLA/)|
+|2025|`arXiv`|[VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation](https://arxiv.org/pdf/2510.09607)|[![Github stars](https://img.shields.io/github/stars/Tencent/VITA.svg)](https://github.com/Tencent/VITA)|[website](https://ltbai.github.io/VITA-VLA/)|
 |2025|`arXiv`|[CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](https://arxiv.org/pdf/2506.13725)|[![Github stars](https://img.shields.io/github/stars/OpenHelix-Team/CEED-VLA.svg)](https://github.com/OpenHelix-Team/CEED-VLA)|[website](https://irpn-eai.github.io/CEED-VLA/)|
 |2025|`arXiv`|[Omnisat: Compact action token, faster auto regression](https://arxiv.org/pdf/2510.09667)|---|---|
 |2025|`arXiv`|[RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models](https://arxiv.org/pdf/2509.21243)|---|[demo](youtu.be/2CseBR-snZg)|
