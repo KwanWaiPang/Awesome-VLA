@@ -47,7 +47,9 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|---| 
+|2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|[Blog](https://kwanwaipang.github.io/Efficient-VLA/)|
+|2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
+|2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|[Blog](https://kwanwaipang.github.io/VLA-survey-2025/)|
 
 # Efficient-VLA
 
@@ -56,13 +58,13 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|---|
+|2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
-|2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
-|2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|---|
+
 
 
 
 # Other Resources
 * Paper List for [VLN (Visual Language Navigation)](https://github.com/KwanWaiPang/Awesome-VLN)
+
 
