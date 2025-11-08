@@ -19,7 +19,7 @@ Feel free to share this list with others!
 - [Efficient-VLA](#Efficient-VLA)
 - [Other Resources](#Others-Resources)
 
-
+<br>
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
