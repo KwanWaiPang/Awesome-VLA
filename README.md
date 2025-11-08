@@ -66,6 +66,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
+|2025|`arXiv`|[Fastdrivevla: Efficient end-to-end driving via plug-and-play reconstruction-based token pruning](https://arxiv.org/pdf/2507.23318)|---|---|
 | 2025 | `RAL` | [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514) | [![Github stars](https://img.shields.io/github/stars/liyaxuanliyaxuan/TinyVLA.svg)](https://github.com/liyaxuanliyaxuan/TinyVLA) | [Website](https://tiny-vla.github.io/) |
 | 2025 | `arXiv` | [SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics](https://arxiv.org/abs/2506.01844) | [![Github stars](https://img.shields.io/github/stars/huggingface/lerobot.svg)](https://github.com/huggingface/lerobot) | --- |
 | 2025 | `arXiv` | [NORA: A Small Open-Sourced Generalist Vision-Language-Action Model for Embodied Tasks](https://arxiv.org/abs/2504.19854) | [![Github stars](https://img.shields.io/github/stars/declare-lab/nora.svg)](https://github.com/declare-lab/nora) | [Website](https://declare-lab.github.io/nora) |
