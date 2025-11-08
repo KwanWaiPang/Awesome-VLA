@@ -51,6 +51,7 @@ Feel free to share this list with others!
 |2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|[Blog](https://kwanwaipang.github.io/realtime-vla/)|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
 |---|`arXiv`|---|---|---|
+|2025|`arXiv`|[Ttf-vla: Temporal token fusion via pixel-attention integration for vision-language-action models](https://arxiv.org/pdf/2508.19257)|---|---|
 |2025|`arXiv`|[Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)|[![Github stars](https://img.shields.io/github/stars/baaivision/UniVLA.svg)](https://github.com/baaivision/UniVLA) |[website](https://robertwyq.github.io/univla.github.io/)|
 |2025|`ICML`|[Otter: A vision-language-action model with text-aware visual feature extraction](https://arxiv.org/pdf/2503.03734)|[![Github stars](https://img.shields.io/github/stars/Max-Fu/otter.svg)](https://github.com/Max-Fu/otter)|[Website](https://ottervla.github.io/)|
 |2025|`arXiv`|[Sqap-vla: A synergistic quantization-aware pruning framework for high-performance vision-language-action models](https://arxiv.org/pdf/2509.09090?)|[![Github stars](https://img.shields.io/github/stars/ecdine/SQAP-VLA.svg)](https://github.com/ecdine/SQAP-VLA)|---|
