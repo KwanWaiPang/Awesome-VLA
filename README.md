@@ -25,6 +25,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICCV`|[Robomm: All-in-one multimodal large model for robotic manipulation](https://arxiv.org/pdf/2412.07215v1)|[![Github stars](https://img.shields.io/github/stars/EmbodiedAI-RoboTron/RoboTron-Mani.svg)](https://github.com/EmbodiedAI-RoboTron/RoboTron-Mani)|[website](https://robouniview.github.io/RoboMM.github.io/)|
 |2025|`arXiv`|[InternVLA-M1: Latent Spatial Grounding for Instruction-Following Robotic Manipulation](https://arxiv.org/pdf/2510.13778)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/InternVLA-M1.svg)](https://github.com/InternRobotics/InternVLA-M1)|[Website](https://internrobotics.github.io/internvla-m1.github.io/)|
 |2025|`CoRL`|[π0.5: a Vision-Language-Action Model with Open-World Generalization](https://openreview.net/pdf?id=vlhoswksBO)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Blog](https://www.pi.website/blog/pi05)<br>PI0.5|
 |2025|`CoRR`|[GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/pdf/2503.14734)| [![Github stars](https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T.svg)](https://github.com/NVIDIA/Isaac-GR00T)|[website](https://developer.nvidia.com/isaac/gr00t)|
