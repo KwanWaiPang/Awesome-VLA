@@ -39,6 +39,7 @@ Feel free to share this list with others!
 |2024|`CoRR`|[π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Blog](https://physicalintelligence.company/blog/pi0)<br>PI0|
 |2023|`CoRL`|[Rt-2: Vision-language-action models transfer web knowledge to robotic control](https://robotics-transformer2.github.io/assets/rt2.pdf)|---|[Website](https://robotics-transformer2.github.io/)|
 |2023|`RSS`|[Learning fine-grained bimanual manipulation with low-cost hardware](https://arxiv.org/pdf/2304.13705)|[![Github stars](https://img.shields.io/github/stars/tonyzhaozh/act.svg)](https://github.com/tonyzhaozh/act)|[Website](https://tonyzhaozh.github.io/aloha/)<br>ALOHA/ACT|
+|2023|`CoRL`|[Do as i can, not as i say: Grounding language in robotic affordances](https://proceedings.mlr.press/v205/ichter23a/ichter23a.pdf)|---|SayCan|
 |2022|`arXiv`|[Rt-1: Robotics transformer for real-world control at scale](https://arxiv.org/pdf/2212.06817)|[![Github stars](https://img.shields.io/github/stars/google-research/robotics_transformer.svg)](https://github.com/google-research/robotics_transformer)|[website](https://robotics-transformer1.github.io/)<br>[Blog](https://research.google/blog/rt-1-robotics-transformer-for-real-world-control-at-scale/)|
 
 
