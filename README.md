@@ -26,6 +26,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model](https://arxiv.org/pdf/2510.12276)|[![Github stars](https://img.shields.io/github/stars/OpenHelix-Team/Spatial-Forcing.svg)](https://github.com/OpenHelix-Team/Spatial-Forcing)|[website](https://spatial-forcing.github.io/)|
+|2025|`arXiv`|[Evo-0: Vision-language-action model with implicit spatial understanding](https://arxiv.org/pdf/2507.00416?)|[![Github stars](https://img.shields.io/github/stars/MINT-SJTU/Evo-0.svg)](https://github.com/MINT-SJTU/Evo-0)|[website](https://mint-sjtu.github.io/Evo-VLA.io/)|
 |2025|`arXiv`|[EvoVLA: Self-Evolving Vision-Language-Action Model](https://arxiv.org/pdf/2511.16166)|[![Github stars](https://img.shields.io/github/stars/AIGeeksGroup/EvoVLA.svg)](https://github.com/AIGeeksGroup/EvoVLA) |[website](https://aigeeksgroup.github.io/EvoVLA/)|
 |2025|`arXiv`|[Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](https://arxiv.org/pdf/2511.14178)|---|[website](https://rip4kobe.github.io/vla-pilot/)|
 |2025|`arXiv`|[π0.6: a VLA That Learns From Experience](https://www.pi.website/download/pistar06.pdf)|---|[website](https://www.pi.website/blog/pistar06)|
