@@ -25,6 +25,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](https://arxiv.org/pdf/2511.21690)|---|[website](https://tracegen.github.io/)| 
 |2025|`arXiv`|[VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference](https://arxiv.org/pdf/2511.16449)|---|---|
 |2025|`arXiv`|[Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](https://arxiv.org/pdf/2511.04555)|[![Github stars](https://img.shields.io/github/stars/MINT-SJTU/Evo-1.svg)](https://github.com/MINT-SJTU/Evo-1)|---|
 |2025|`arXiv`|[Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model](https://arxiv.org/pdf/2510.12276)|[![Github stars](https://img.shields.io/github/stars/OpenHelix-Team/Spatial-Forcing.svg)](https://github.com/OpenHelix-Team/Spatial-Forcing)|[website](https://spatial-forcing.github.io/)|
