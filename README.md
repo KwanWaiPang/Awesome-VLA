@@ -25,6 +25,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/pdf/2510.10274?)|[![Github stars](https://img.shields.io/github/stars/2toinf/X-VLA.svg)](https://github.com/2toinf/X-VLA)|[website](https://thu-air-dream.github.io/X-VLA/)|
 |2025|`arXiv`|[RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2511.01331)|---|---| 
 |2025|`arXiv`|[VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation](https://arxiv.org/pdf/2511.17199)|---|---|
 |2025|`arXiv`|[Libero-plus: In-depth robustness analysis of vision-language-action models](https://arxiv.org/pdf/2510.13626v1)|[![Github stars](https://img.shields.io/github/stars/sylvestf/LIBERO-plus.svg)](https://github.com/sylvestf/LIBERO-plus)|[website](https://sylvestf.github.io/LIBERO-plus/)|
