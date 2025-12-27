@@ -25,6 +25,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/pdf/2511.16175)|[![Github stars](https://img.shields.io/github/stars/zhijie-group/Mantis.svg)](https://github.com/zhijie-group/Mantis)|---|
 |2025|`arXiv`|[WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control](https://arxiv.org/pdf/2512.11047)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/WholebodyVLA.svg)](https://github.com/OpenDriveLab/WholebodyVLA)|[website](https://opendrivelab.com/WholeBodyVLA/)|
 |2025|`arXiv`|[RynnVLA-002: A Unified Vision-Language-Action and World Model](https://arxiv.org/pdf/2511.17502)|[![Github stars](https://img.shields.io/github/stars/alibaba-damo-academy/RynnVLA-002.svg)](https://github.com/alibaba-damo-academy/RynnVLA-002)|---|
 |2025|`arXiv`|[πRL: Online RL Fine-tuning for Flow-based Vision-Language-Action Models](https://arxiv.org/pdf/2510.25889)|[![Github stars](https://img.shields.io/github/stars/RLinf/RLinf.svg)](https://github.com/RLinf/RLinf)|[website](https://rlinf.readthedocs.io/en/latest/)|
