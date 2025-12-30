@@ -21,6 +21,8 @@ Feel free to share this list with others!
 
 <br>
 
+* For an in-depth analysis of selected papers, see [Link](./supp.md)
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
