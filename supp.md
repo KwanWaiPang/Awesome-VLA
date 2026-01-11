@@ -61,6 +61,7 @@ PS: VLA的方法实在太多了，后续看到有意思的工作会及时更新�
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Galaxea open-world dataset and g0 dual-system vla model](https://arxiv.org/pdf/2509.00576)|[![Github stars](https://img.shields.io/github/stars/OpenGalaxea/GalaxeaVLA.svg)](https://github.com/OpenGalaxea/GalaxeaVLA)|[website](https://opengalaxea.github.io/GalaxeaVLA/)<br>500+小时真实机器人数据|
 |2025|`RSS`|[Robomind: Benchmark on multi-embodiment intelligence normative data for robot manipulation](https://arxiv.org/pdf/2412.13877)|[![Github stars](https://img.shields.io/github/stars/x-humanoid-robomind/x-humanoid-robomind.github.io.svg)](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io)|[website](https://x-humanoid-robomind.github.io/)|
 |2025|`arXiv`|[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/pdf/2511.16651)|[huggingface](https://huggingface.co/datasets/InternRobotics/InternData-A1)|[website](https://internrobotics.github.io/interndata-a1.github.io/)|
 |2025|`arXiv`|[Robotwin 2.0: A scalable data generator and benchmark with strong domain randomization for robust bimanual robotic manipulation](https://arxiv.org/pdf/2506.18088)|---|[website](https://robotwin-platform.github.io/)|
