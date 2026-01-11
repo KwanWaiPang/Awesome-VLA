@@ -138,6 +138,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[A survey on efficient vision-language-action models](https://arxiv.org/pdf/2510.24795)|[![Github stars](https://img.shields.io/github/stars/YuZhaoshu/Efficient-VLAs-Survey.svg)](https://github.com/YuZhaoshu/Efficient-VLAs-Survey)|[website](https://evla-survey.github.io/)|
 |2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|[Blog](https://kwanwaipang.github.io/Efficient-VLA/)|
 |2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
 |2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|[Blog](https://kwanwaipang.github.io/VLA-survey-2025/)|
