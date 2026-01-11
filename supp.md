@@ -4,6 +4,7 @@
 
 |  年份 |  单位  | 模型  |  方法  | 说明 |
 |:-----:|:-----:|:-----:|:-----:| ---------- |
+|  2025 |  清华大学  | [Motus](https://arxiv.org/pdf/2512.13030)  |  VLM(Qwen3-VL-2B)+World Model(Wan2.2-5B)+action expert(Transformer)  | VLA和世界模型纳入了统一框架;研究基于 UniDiffuser（统一扩散生成框架）的建模理论，将“视频生成”和“动作生成”视为同一生成过程中的两个变量，并为二者设计了相互独立的噪声调度机制;采用了 MoT（Mixture-of-Transformers，专家混合 Transformer） 结构，将擅长理解语义的视觉语言模型和擅长建模动态的生成式视频模型作为不同“专家”引入同一框架;RoboTwin2.0 50个任务平均成功率为87～88%（比PI0.5高45%，比X-VLA高15%），真机验证也高于PI0.5 |
 |  2025 |  北京人形机器人  | [XR-1](https://arxiv.org/pdf/2511.02776v1) |  VLM（双分支的向量化自编码器，PaliGemma+Gemma+action head）  | Unified Vision-Motion Codes (UVMC，多模态统一视觉-动作编码）将视觉观察、语言指令和机器人动作在统一的表征空间中进行学习；三阶段训练：多模态预训练→跨本体主网络训练→特定场景微调；大型数据集RoboMIND V2.0（真实数据+ArtVIP仿真数据）；在天工2.0人形机器人、UR、Franka等本体上验证 |
 |  2025 |  极佳科技  | [SwiftVLA](https://arxiv.org/pdf/2512.00903)  |  VLM  |  4D transformer（StreamVGGT）实现从2D图像提取4D特征（2D+4D输入），以此来增强VLM（SmolVLM-0.5B）的特征，真机实验比7倍更大的VLA模型（π0）性能相当（真机成功率为0.76，π0为 0.48，LIBERO成功率为95.1%），在边端设备（NVIDIA Jetson Orin）上快18倍（推理速度为0.167s=5.98HZ），内存消耗少12倍 |
 |  2025 |  复旦大学  | [ProphRL](https://arxiv.org/pdf/2511.20633)  |  VLA+RL+World Model  | 提出了一个世界模型（Prophet）作为模拟器来训练VLA，方法采用VLA+在线RL；在AgiBot、DROID、LIBERO 和 BRIDGE 等benchmark上为各类 VLA 模型（VLA-adapter-0.5B, Pi0.5-3B,  OpenVLA-OFT-7B）带来 5–17% 的SR提升，在真实机器中取得 24–30% 的成功率提升 | 
