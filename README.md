@@ -27,6 +27,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Motus: A Unified Latent Action World Model](https://arxiv.org/pdf/2512.13030)|[![Github stars](https://img.shields.io/github/stars/thu-ml/Motus.svg)](https://github.com/thu-ml/Motus)|[website](https://motus-robotics.github.io/motus)|
 |2025|`arXiv`|[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/pdf/2511.02776v1)|[![Github stars](https://img.shields.io/github/stars/Open-X-Humanoid/XR-1.svg)](https://github.com/Open-X-Humanoid/XR-1)|[website](https://xr-1-vla.github.io/)|
 |2025|`arXiv`|[SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](https://arxiv.org/pdf/2512.00903)|[![Github stars](https://img.shields.io/github/stars/GigaAI-research/SwiftVLA.svg)](https://github.com/GigaAI-research/SwiftVLA)|[website](https://swiftvla.github.io/)| 
 |2025|`arXiv`|[Training-Time Action Conditioning for Efficient Real-Time Chunking](https://arxiv.org/pdf/2512.05964)|---|---|
