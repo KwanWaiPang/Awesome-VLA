@@ -4,6 +4,7 @@
 
 |  年份 |  单位  | 模型  |  方法  | 说明 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
+|  2025 |  北京人形机器人  | [XR-1](https://arxiv.org/pdf/2511.02776v1) |  方法  | 说明 |
 |  2025 |  极佳科技  | [SwiftVLA](https://arxiv.org/pdf/2512.00903)  |  VLM  |  4D transformer（StreamVGGT）实现从2D图像提取4D特征（2D+4D输入），以此来增强VLM（SmolVLM-0.5B）的特征，真机实验比7倍更大的VLA模型（π0）性能相当（真机成功率为0.76，π0为 0.48，LIBERO成功率为95.1%），在边端设备（NVIDIA Jetson Orin）上快18倍（推理速度为0.167s=5.98HZ），内存消耗少12倍 |
 |  2025 |  复旦大学  | [ProphRL](https://arxiv.org/pdf/2511.20633)  |  VLA+RL+World Model  | 提出了一个世界模型（Prophet）作为模拟器来训练VLA，方法采用VLA+在线RL；在AgiBot、DROID、LIBERO 和 BRIDGE 等benchmark上为各类 VLA 模型（VLA-adapter-0.5B, Pi0.5-3B,  OpenVLA-OFT-7B）带来 5–17% 的SR提升，在真实机器中取得 24–30% 的成功率提升 | 
 |  2025 |  复旦大学  | [WholeBodyVLA](https://arxiv.org/pdf/2512.11047)  |  VLM+RL | 统一框架实现全身控制（下肢移动+上肢捉取）。LAM （Latent Action Model）采用分段训练的方式，用真实机器人操作数据集（AgiBot World）+带有“移动-操作”的视频进行预训练，学习locomotion–manipulation skill。而loco–manipulation–oriented (LMO) RL policy则用于实现稳定的移动（如，前进、转弯、下蹲） |
@@ -58,6 +59,7 @@ PS: VLA的方法实在太多了，后续看到有意思的工作会及时更新�
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RSS`|[Robomind: Benchmark on multi-embodiment intelligence normative data for robot manipulation](https://arxiv.org/pdf/2412.13877)|[![Github stars](https://img.shields.io/github/stars/x-humanoid-robomind/x-humanoid-robomind.github.io.svg)](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io)|[website](https://x-humanoid-robomind.github.io/)|
 |2025|`arXiv`|[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/pdf/2511.16651)|[huggingface](https://huggingface.co/datasets/InternRobotics/InternData-A1)|[website](https://internrobotics.github.io/interndata-a1.github.io/)|
 |2025|`arXiv`|[Robotwin 2.0: A scalable data generator and benchmark with strong domain randomization for robust bimanual robotic manipulation](https://arxiv.org/pdf/2506.18088)|---|[website](https://robotwin-platform.github.io/)|
 |2025|`IROS`|[Agibot world colosseo: A large-scale manipulation platform for scalable and intelligent embodied systems](https://arxiv.org/pdf/2503.06669)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World.svg)](https://github.com/OpenDriveLab/AgiBot-World)|[website](https://agibot-world.com/) <br> AgiBot World dataset|
