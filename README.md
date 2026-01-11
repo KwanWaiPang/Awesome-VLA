@@ -27,6 +27,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Galaxea open-world dataset and g0 dual-system vla model](https://arxiv.org/pdf/2509.00576)|[![Github stars](https://img.shields.io/github/stars/OpenGalaxea/GalaxeaVLA.svg)](https://github.com/OpenGalaxea/GalaxeaVLA)|[website](https://opengalaxea.github.io/GalaxeaVLA/)|
 |2025|`arXiv`|[Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/pdf/2511.16175)|[![Github stars](https://img.shields.io/github/stars/zhijie-group/Mantis.svg)](https://github.com/zhijie-group/Mantis)|[Model & dataset](https://huggingface.co/collections/Yysrc/mantis)|
 |2025|`arXiv`|[Motus: A Unified Latent Action World Model](https://arxiv.org/pdf/2512.13030)|[![Github stars](https://img.shields.io/github/stars/thu-ml/Motus.svg)](https://github.com/thu-ml/Motus)|[website](https://motus-robotics.github.io/motus)|
 |2025|`arXiv`|[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/pdf/2511.02776v1)|[![Github stars](https://img.shields.io/github/stars/Open-X-Humanoid/XR-1.svg)](https://github.com/Open-X-Humanoid/XR-1)|[website](https://xr-1-vla.github.io/)|
