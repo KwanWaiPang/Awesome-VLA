@@ -139,6 +139,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges](https://arxiv.org/pdf/2512.11362)|[![Github stars](https://img.shields.io/github/stars/SuyuZ1/VLA-Survey-Anatomy.svg)](https://github.com/SuyuZ1/VLA-Survey-Anatomy)|[website](https://suyuz1.github.io/VLA-Survey-Anatomy/)|
 |2025|`arXiv`|[A survey on efficient vision-language-action models](https://arxiv.org/pdf/2510.24795)|[![Github stars](https://img.shields.io/github/stars/YuZhaoshu/Efficient-VLAs-Survey.svg)](https://github.com/YuZhaoshu/Efficient-VLAs-Survey)|[website](https://evla-survey.github.io/)|
 |2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|[Blog](https://kwanwaipang.github.io/Efficient-VLA/)|
 |2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
