@@ -27,7 +27,8 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/pdf/2512.24125)|---|[website](https://geniereasoner.github.io/GenieReasoner/)|
+|2026|`arXiv`|[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/pdf/2601.00675)|---|[website](https://crfm.stanford.edu/helm/robo-reward-bench/latest/)<br> 小参数专用模型胜过大VLM，“专用场景微调”比“通用机器人预训练”|
+|2025|`arXiv`|[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/pdf/2512.24125)|---|[website](https://geniereasoner.github.io/GenieReasoner/)<br> VLA评价体系|
 |2025|`arXiv`|[Galaxea open-world dataset and g0 dual-system vla model](https://arxiv.org/pdf/2509.00576)|[![Github stars](https://img.shields.io/github/stars/OpenGalaxea/GalaxeaVLA.svg)](https://github.com/OpenGalaxea/GalaxeaVLA)|[website](https://opengalaxea.github.io/GalaxeaVLA/)|
 |2025|`arXiv`|[Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/pdf/2511.16175)|[![Github stars](https://img.shields.io/github/stars/zhijie-group/Mantis.svg)](https://github.com/zhijie-group/Mantis)|[Model & dataset](https://huggingface.co/collections/Yysrc/mantis)|
 |2025|`arXiv`|[Motus: A Unified Latent Action World Model](https://arxiv.org/pdf/2512.13030)|[![Github stars](https://img.shields.io/github/stars/thu-ml/Motus.svg)](https://github.com/thu-ml/Motus)|[website](https://motus-robotics.github.io/motus)|
