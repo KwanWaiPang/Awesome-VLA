@@ -27,6 +27,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://research.beingbeyond.com/projects/being-h05/being-h05.pdf)| [![Github stars](https://img.shields.io/github/stars/BeingBeyond/Being-H.svg)](https://github.com/BeingBeyond/Being-H)|[website](https://research.beingbeyond.com/being-h05)|
 |2026|`arXiv`|[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/pdf/2601.00675)|---|[website](https://crfm.stanford.edu/helm/robo-reward-bench/latest/)<br> 小参数专用模型胜过大VLM，“专用场景微调”比“通用机器人预训练”|
 |2025|`arXiv`|[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/pdf/2512.24125)|---|[website](https://geniereasoner.github.io/GenieReasoner/)<br> VLA评价体系|
 |2025|`arXiv`|[Galaxea open-world dataset and g0 dual-system vla model](https://arxiv.org/pdf/2509.00576)|[![Github stars](https://img.shields.io/github/stars/OpenGalaxea/GalaxeaVLA.svg)](https://github.com/OpenGalaxea/GalaxeaVLA)|[website](https://opengalaxea.github.io/GalaxeaVLA/)|
