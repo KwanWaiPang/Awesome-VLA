@@ -27,6 +27,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://arxiv.org/pdf/2601.14133)| [![Github stars](https://img.shields.io/github/stars/ZGC-EmbodyAI/TwinBrainVLA/.svg)](https://github.com/ZGC-EmbodyAI/TwinBrainVLA/)|---|
 |2026|`arXiv`|[Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://research.beingbeyond.com/projects/being-h05/being-h05.pdf)| [![Github stars](https://img.shields.io/github/stars/BeingBeyond/Being-H.svg)](https://github.com/BeingBeyond/Being-H)|[website](https://research.beingbeyond.com/being-h05)|
 |2026|`arXiv`|[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/pdf/2601.00675)|---|[website](https://crfm.stanford.edu/helm/robo-reward-bench/latest/)<br> 小参数专用模型胜过大VLM，“专用场景微调”比“通用机器人预训练”|
 |2025|`arXiv`|[MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/pdf/2512.16909)|[![Github stars](https://img.shields.io/github/stars/HybridRobotics/MomaGraph.svg)](https://github.com/HybridRobotics/MomaGraph)|[website](https://hybridrobotics.github.io/MomaGraph/)|
