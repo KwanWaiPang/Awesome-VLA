@@ -27,6 +27,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts](https://arxiv.org/pdf/2607.28993)|[![Github stars](https://img.shields.io/github/stars/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model.svg)](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model)|[website](https://thu-wangmx.github.io/st-wam/)|
 |2026|`arXiv`|[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/pdf/2601.22153)|[![Github stars](https://img.shields.io/github/stars/hzxie/DynamicVLA.svg)](https://github.com/hzxie/DynamicVLA)|[website](https://www.infinitescript.com/project/dynamic-vla/)|
 |2026|`arXiv`|[A Pragmatic VLA Foundation Model](https://arxiv.org/pdf/2601.18692)|[![Github stars](https://img.shields.io/github/stars/robbyant/lingbot-vla.svg)](https://github.com/robbyant/lingbot-vla)|[website](https://technology.robbyant.com/lingbot-vla)|
 |2026|`arXiv`|[TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://arxiv.org/pdf/2601.14133)| [![Github stars](https://img.shields.io/github/stars/ZGC-EmbodyAI/TwinBrainVLA.svg)](https://github.com/ZGC-EmbodyAI/TwinBrainVLA/)|---|
